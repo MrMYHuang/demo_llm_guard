@@ -6,6 +6,10 @@ The backend app: Python, FastAPI, LLM guard: Qwen/Qwen3Guard-Gen-0.6B, LLM: deep
 
 The demo:
 
+https://github.com/user-attachments/assets/ca6f9a1f-d85c-419d-9044-69bad1438f1f
+
+
+
 ## How to Run
 1. Clone this repo
 2. Install Docker
