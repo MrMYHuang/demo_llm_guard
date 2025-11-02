@@ -1,0 +1,12 @@
+services:
+  frontend:
+    build: demo_llm_guard_frontend
+    ports:
+      - "8001:80"
+
+  # Unfortunately, Apple Silicon MPS doesn't work in container.
+  # Please start backend from host.
+  #backend:
+  #  build: demo_llm_guard_backend
+  #  ports:
+  #  - "8000:8000"

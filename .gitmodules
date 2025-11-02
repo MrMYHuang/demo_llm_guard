@@ -1,0 +1,6 @@
+[submodule "demo_llm_guard_frontend"]
+	path = demo_llm_guard_frontend
+	url = git@github.com:MrMYHuang/demo_llm_guard_frontend.git
+[submodule "demo_llm_guard_backend"]
+	path = demo_llm_guard_backend
+	url = git@github.com:MrMYHuang/demo_llm_guard_backend.git
